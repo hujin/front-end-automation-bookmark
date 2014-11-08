@@ -38,6 +38,7 @@ Front-end Automation Bookmark
 
 - [Grunt官网](http://gruntjs.com/)
 - [Grunt中文社区](http://www.gruntjs.org/)
+- [Why we should stop using Grunt & Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/) by [@keithamus](https://twitter.com/keithamus)
 
 ##Yeoman
 
