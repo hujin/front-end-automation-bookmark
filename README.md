@@ -26,6 +26,7 @@ Front-end Automation Bookmark
 - [BrowserSync + Gulp.js](http://www.browsersync.io/docs/gulp/)
 - [Managing Frontend Dependencies & Deployment Part 2: Gulp](https://blog.engineyard.com/2014/frontend-dependencies-management-part-2) by [@DAVEY SHAFIK](https://blog.engineyard.com/authors/Davey%20Shafik)
 - [How to use Gulp to generate CSS from Sass/scss](http://www.codingpedia.org/ama/how-to-use-gulp-to-generate-css-from-sass-scss/) by [@Adrian Matei](http://www.codingpedia.org/author/ama/)
+- [Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/article/creating-svg-sprites-using-gulp-and-sass/) by [@Mike Street](https://www.liquidlight.co.uk/team/mike-street/)
 
 ###Viedo
 
