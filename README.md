@@ -40,6 +40,7 @@ Front-end Automation Bookmark
 - [Grunt官网](http://gruntjs.com/)
 - [Grunt中文社区](http://www.gruntjs.org/)
 - [Why we should stop using Grunt & Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/) by [@keithamus](https://twitter.com/keithamus)
+- [8 ways to improve your Grunt set-up](http://www.creativebloq.com/tutorial/8-ways-improve-your-grunt-set-111413407)
 
 ##Yeoman
 
