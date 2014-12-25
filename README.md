@@ -49,6 +49,7 @@ Front-end Automation Bookmark
 
 - [Yeoman官网](http://yeoman.io/)
 - [Managing Frontend Dependencies & Deployment Part 3: Yeoman](https://blog.engineyard.com/2014/frontend-dependencies-management-part-3) by [@DAVEY SHAFIK](https://blog.engineyard.com/authors/Davey%20Shafik)
+- [Building Apps With the Yeoman Workflow](http://code.tutsplus.com/tutorials/building-apps-with-the-yeoman-workflow--net-33254) by [@Stephen Sawchuk](http://tutsplus.com/authors/stephen-sawchuk)
  
 ##Bower
 
