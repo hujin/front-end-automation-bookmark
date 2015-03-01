@@ -42,6 +42,10 @@ Front-end Automation Bookmark
 - [Why we should stop using Grunt & Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/) by [@keithamus](https://twitter.com/keithamus)
 - [8 ways to improve your Grunt set-up](http://www.creativebloq.com/tutorial/8-ways-improve-your-grunt-set-111413407)
 - [A BEGINNER'S GUIDE TO GRUNT: REDUX](http://mattbailey.io/a-beginners-guide-to-grunt-redux/) by [@Matt Bailey](https://twitter.com/_mattbailey)
+- [Learning GruntJS : Part 1 – Getting Started with GruntJs](http://www.webspeaks.in/2015/01/learning-gruntjs-getting-started-with-gruntjs.html) by [@Arvind Bhardwaj](http://www.webspeaks.in/author/arvind-bhardwaj)
+- [Learning GruntJS:Part 2 – Manage JavaScript Tasks](http://www.webspeaks.in/2015/01/learning-gruntjs-manage-javascript-tasks.html) by [@Arvind Bhardwaj](http://www.webspeaks.in/author/arvind-bhardwaj)
+- [Learning GruntJS:Part 3 – Manage CSS Tasks](http://www.webspeaks.in/2015/01/learning-gruntjs-part-3-manage-css-tasks.html) by [@Arvind Bhardwaj](http://www.webspeaks.in/author/arvind-bhardwaj)
+- [Learning GruntJS:Part 4 – Some Useful Grunt Plugins](http://www.webspeaks.in/2015/01/learning-gruntjs-useful-grunt-plugins.html) by [@Arvind Bhardwaj](http://www.webspeaks.in/author/arvind-bhardwaj)
 
 ##Yeoman
 
